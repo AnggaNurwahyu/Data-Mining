@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Malaysia,23,45000,Yes
+Japan,54,28000,No
+Malaysia,,69000,No
+China,70,,Yes
+German,80,99000,Yes
+China,,30000,Yes
+Korea,55,82000,Yes
+Japan,12,12000,Yes
+China,77,,No
+Ukraina,41,89000,No
